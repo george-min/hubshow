@@ -1,0 +1,1 @@
+window.onload=function(){document.querySelector(".head").style.backgroundColor="red"};
